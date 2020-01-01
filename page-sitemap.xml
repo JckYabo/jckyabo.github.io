@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://mxclub.github.io/resume/</loc>
+        <lastmod>2020-01-01T06:53:22.028Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://mxclub.github.io/resume/404.html</loc>
         <lastmod>2019-10-23T12:14:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     
     <url>
         <loc>https://mxclub.github.io/resume/README.html</loc>
-        <lastmod>2019-10-23T12:14:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://mxclub.github.io/resume/</loc>
         <lastmod>2019-10-23T12:14:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
